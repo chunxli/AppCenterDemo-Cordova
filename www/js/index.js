@@ -30,6 +30,8 @@ function onDeviceReady() {
 
     console.log('Running cordova-' + cordova.platformId + '@' + cordova.version);
     document.getElementById('deviceready').classList.add('ready');
+
+    AppCenter.setUserId("your-user-id");
 }
 
 function printConsole() {
