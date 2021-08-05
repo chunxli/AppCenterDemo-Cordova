@@ -1,0 +1,1 @@
+{"plugins":["cordova-plugin-whitelist","cordova-plugin-appcenter-analytics","cordova-plugin-appcenter-shared","cordova-plugin-appcenter-crashes"]}
